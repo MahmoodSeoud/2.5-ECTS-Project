@@ -1,5 +1,10 @@
 
+.env
 *.zip
+*.pt
 skeleton_data_5min.json
 export/
-
+segment-anything-2/
+.venv/
+slurm_*.out
+slurm_*.err
